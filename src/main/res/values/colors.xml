@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="peach">#ef5350</color> <!--use white 48% to 63% opacity -->
+    <color name="peach_light">#ffbcaf</color> <!--use black 45% to 58% opacity -->
+    <color name="peach_dark">#c85a54</color> <!--use black  58% to 85% opacity -->
+    <color name="tomato">#f44336</color> <!--use black  55% to 77% opacity -->
+    <color name="tomato_light">#ff7961</color> <!--use black  48 to 65% opacity -->
+    <color name="tomato_dark">#ba000d</color>  <!--use white 60% to 79% opacity -->
+    <color name="black">#37474f</color>
+</resources>
